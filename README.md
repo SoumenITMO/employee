@@ -4,7 +4,7 @@
 		 
 			1. Make a database for "EmployeeTask"
 			
-			2. Import .sql file from "DB_SQL" folder
+			2. Import .sql file from "DB_SQL" folder which is located in root of the project.
 			
 			3. Please clone the project in a local system 
 
