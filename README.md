@@ -15,3 +15,6 @@
 			6. After all this steps the project link will be like follow :
 			
 			       yoursitename.com/employee/public/
+				   
+				   
+			Note : Unit test has been done and located in "employee/tests/Unit/EmployeeUnitTest.php" which can be run "phpinit" from root                      folder using of console.
