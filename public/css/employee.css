@@ -1,0 +1,24 @@
+.caption-1
+{
+	position: relative;
+	left: 39%;
+}
+
+.employee-lst
+{
+	position: relative;
+	top: 61px;
+	right: 40%;
+}
+
+.info-span
+{
+	position: relative;
+	left: 30%;
+	top: 331px;
+}
+
+.info-span
+{
+	display:none;
+}
